@@ -1,13 +1,12 @@
 module.exports ={
-         secret:'PatientAppForBookingAmbulance@040-33911911',
-         MapApi:"https://maps.googleapis.com/maps/api/js?key=AIzaSyA-CH5W8QV1hpw7xZMbJAjjUx7ph0Z-a0s&v=3.exp&libraries=geometry,drawing,places",
-         gAnalytics : "UA-119993910-1",
-         leadCreateApi:'https://fqa.stanplus.co.in/LeadData/Lead/create?key=22368285a4cba5c286615b799a814b3ee7dae0a4',
-         leadUpdateApi:'https://fqa.stanplus.co.in/LeadData/Lead/update?key=22368285a4cba5c286615b799a814b3ee7dae0a4',
-         priceApi:'https://fqa.stanplus.co.in/CallCenterData/pricecalculator',
-         enquiryApi:'https://fqa.stanplus.co.in/CallCenterData/savePatientDataAPI',
-         partnerHosImg:'https://pqa.stanplus.co.in/assets/partner_img',
-         partnerHosList: 'https://pqa.stanplus.co.in/Spreadsheet/getpartnerhospital/phospital'
+         secret:'PatientAppForBookingAmbulance@040-334323411',
+         MapApi:"https://maps.googleapis.com/maps/api/js?key=AIzaSyA-CH58QV1hpwUx7ph0Z-a0s&v=3.exp&libraries=geometry,drawing,places",
+         gAnalytics : "UA-11992131910-1",
+         leadCreateApi:'http://localhost/StanFleet/LeadData/Lead/create?key=22368285a4cba5c286615b799123b3ee7dae0a4',
+         leadUpdateApi:'http://localhost/StanFleet/LeadData/Lead/update?key=22368285a4cba5c286615b799a8142132137dae0a4',
+         priceApi:'http://localhost/StanFleet/CallCenterData/pricecalculator',
+         enquiryApi:'http://localhost/StanFleet/CallCenterData/savePatientDataAPI',
+        
 
 };
 
